@@ -18,6 +18,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   background-color: #F7F7F7;
   line-height: 35px;
+  font-size: 18px;
 }
 
 h1, h2 {
@@ -29,8 +30,8 @@ h1 {
 }
 
 h2 {
-  color: #2D080A;
-  font-size: 20px;
+  color: #38040E;
+  font-size: 22px;
 }
 
 a {
@@ -79,10 +80,9 @@ a:hover {
   padding-left: 0px;
 }
 
-/*.icons {
-  background-color: #2D080A;
-  color: white;
-}*/
+.icon {
+  font-size: 18px;
+}
 
 .btn-red {
   font-size: 16px;
